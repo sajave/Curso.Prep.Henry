@@ -1,0 +1,25 @@
+VARIABLES
+Son una forma de asignar valores. Hay 3 tipo: 
+
+- Var: se puede reasignar el valor en cualquier parte del codigo
+- let: el valor se puede reasignar fuera del "scope"
+- const: es una variable que no se puede modificar
+
+STRINGS
+Es un tipo de dato que demuestra un texto
+
+FUNCIONES
+Son bloques de codigos que se hacen para poder ejecutarlos o invocarlos en otras
+partes del codigo cuando se necesiten.
+El argumento es la variable que le definimos a la funcion.
+Al final ponemos "return" porque es la única forma que tenemos de acceder a lo que está
+adentro de la función. Una vez que se ejecuta el "return" la funcion se detiene en lo
+que está haciendo y devuelve eso.
+Este alcance se llama "scope".
+
+DECLARACIONES
+Es una forma de verificar si alguna condicion se cumple y en es caso ejecutar un código.
+También se puede dar otro código a ejecutar en caso de que la misma condición no se cumpla.
+
+VALORES BOOLEANOS
+Son operaciones que devuelven "verdadero" o "falso"
