@@ -1,0 +1,12 @@
+for:
+
+Sirve para realizar bucles y asi evitar repetir codigo. Tiene 3 partes, la primera indica en donde
+va a iniciar, la segunda es una condicion para determinar cuando se debe detener el bucle y la tercera
+indica el paso (cuanto incrementara la variable en cada iteracion)
+
+
+&&, ||, ! :
+
+&&: es un operador logico que devuelve true si las expresiones que contiene son true.
+||: es un operador logico que devuelve true si alguna de las expresiones que contiene es true.
+!: es un operador logico de negacion. Devuelve el booleano contrario.
