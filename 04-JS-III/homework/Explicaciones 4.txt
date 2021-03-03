@@ -1,0 +1,6 @@
+Array:
+
+Son listas (colecciones de datos). Pueden contener datos numericos, strings, booleanos.
+Se le pueden agregar o quitar elementos y cada uno tiene un orden, empezando por 0.
+Con bucles podemos "recorrer" la lista, accediendo a cada elemento para realizar las mismas
+operaciones en cada uno.
