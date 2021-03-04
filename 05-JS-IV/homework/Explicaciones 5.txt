@@ -1,0 +1,27 @@
+Objetos:
+
+A diferencia de los arrays que pueden contener multiple informacion variada, los objetos tienen
+mucha informacion sobre una sola cosa, osea, es una coleccion de propiedades.
+
+Propiedades:
+
+Son los elementos de un objeto y se les asigna una clave:valor (la clave es el indicador
+y el valor es lo que queremos guardar ahi).
+Se puede acceder a cada una con notacion de puntos o de corchetes.
+
+Métodos:
+
+Es una propiedad de un objeto que es una funcion.
+
+Bucle "for ...in":
+
+Es una intruccion de bucle que realiza las operaciones que le digamos a cada una
+de las propiedades del objeto.
+
+
+Notacion de puntos vs notacion de corchetes:
+
+En la notacion de punto, se pone el nombre del objeto seguido de un punto, y a continuacion
+el elemento o la propiedad al qu queremos acceder.
+Con la notacion de corchetes podemos agregar una clave/valor a un objeto (con la de puntos no
+porque solo acepta un nombre de propiedad, no un valor que apunte a un nombre).
