@@ -1,0 +1,8 @@
+Prototype:
+
+Cada Objeto en Javascript tiene sus propiedades, pero a su ver tienen un Objeto Prototiype
+del cual heredan sus propiedades.
+
+
+Constructors:
+
