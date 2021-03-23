@@ -1,0 +1,4 @@
+Funciones Callbacks:
+
+Son funciones que se usan como parametro de otra funcion, ya que en Javascript las funciones
+tambien pueden ser tomadas como objetos.
