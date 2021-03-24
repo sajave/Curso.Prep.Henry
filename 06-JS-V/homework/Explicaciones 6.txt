@@ -1,8 +1,12 @@
 Prototype:
 
-Cada Objeto en Javascript tiene sus propiedades, pero a su ver tienen un Objeto Prototiype
+Cada Objeto en Javascript tiene sus propiedades, pero a su ves tienen un Objeto Prototiype
 del cual heredan sus propiedades.
 
 
 Constructors:
+
+Son funciones a partir de las cuales vamos a poder crear objetos. Por convención se nombran
+con mayuscula.
+Son invocados con "new"
 
