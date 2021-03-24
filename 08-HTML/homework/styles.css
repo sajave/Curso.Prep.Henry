@@ -4,9 +4,9 @@
     #thirdDiv{ 
         height:600px;
         width:500px;
-        background-color: rgb(197, 11, 11);
+        background-color:red;
         padding: 50px;
-        border: 5px #8a8a8a;}
+        border: 5px solid #8a8a8a;}
     #spanId{
         font-size: 18px;
         margin: 50px;}
